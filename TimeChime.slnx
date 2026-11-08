@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TimeChime.App/TimeChime.App.csproj" />
+    <Project Path="src/TimeChime.Core/TimeChime.Core.csproj" />
+    <Project Path="src/TimeChime.Infrastructure/TimeChime.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TimeChime.Core.Tests/TimeChime.Core.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/TimeChime.VoiceGenerator/TimeChime.VoiceGenerator.csproj" />
+  </Folder>
+</Solution>

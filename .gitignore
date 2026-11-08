@@ -1,0 +1,21 @@
+## Visual Studio & DotNet
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+.vs/
+.idea/
+.vscode/
+
+## Artifacts & Temp
+*.tmp
+*.bak
+*.onnx
+test_out/
+dist/
+publish/
+TimeChime-Setup.exe
+
